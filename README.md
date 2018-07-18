@@ -25,6 +25,9 @@ MONGODB SERVER CONFIGURATION
    * Type "mongo" -> It will show mongo server & port (ex: mongodb://127.0.0.1:27017)
    * Type "showdbs" to view available database in MongoDB
 
+
+
+
 MONGODB WITH NODE CONFIGURATION
 
 1. With the use of NodeJS we can run further queries in MongoDB
