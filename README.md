@@ -4,13 +4,13 @@
 
 MONGODB SERVER CONFIGURATION
 
-1. Install MongoDB from official site 
+1. Install MongoDB from official site ->  
 URL 
 (https://www.mongodb.com/download-center?jmp=nav#community)
 
 
 
-2. After Installation Set your System Environment variables to MongoDB path
+2. After Installation Set your System Environment variables as MongoDB path
    
    Inside the path, Check weather "mongo.exe" available or not
    MongoDB path at system -> (C:\Program Files\MongoDB\Server\4.0\bin)
