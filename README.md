@@ -72,3 +72,11 @@ MONGODB WITH NODE CONFIGURATION
 
    * node-mongodb-drop-collection.js ->
      Used to drop the collection from database
+
+
+
+Basic operations in MongoDB
+1. view-db - "show dbs"
+2. use-db - "use (db-name)"\
+3. show-collections - "show collections"
+4. drop-collection - "db.collection-name.drop()"
